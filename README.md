@@ -1,4 +1,4 @@
-# classification-problems
-Solutions to machine learning classification problems.
+# deep-learning
+Deep Learning Projects.
 
 ![handwritten digits classification](images/figure_1.png)
